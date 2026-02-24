@@ -1,7 +1,4 @@
-<center>
-
 <h1 style="text-align: center;">NumberComputer is a Library for Number Code</h1>
-</center>
 
 ------------------------------------------
 
