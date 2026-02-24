@@ -1,11 +1,11 @@
+<center>
 # NumberComputer is a Library for Number Code
+</center>
 ------------------------------------------
 
-<center>
 ### This Project Makes Anything with Numbers Much easier to Use
 
 ### I also Added Random Operators for Math As Function so Call Function 
-</center>
         fn get_op();
 -----------------------------
         
