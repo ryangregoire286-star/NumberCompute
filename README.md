@@ -8,11 +8,11 @@
 
     #[allow(unused)]
     
-    pub fn get_rand_x(n2: f32) -> f32 {
+pub fn get_rand_x(n2: f32) -> f32 {
         rand::random_range(1.0..n2)
     }
     
-    pub fn get_rand_y(n2: f32) -> f32 {
+pub fn get_rand_y(n2: f32) -> f32 {
         rand::random_range(1.0..n2)
     }
 
