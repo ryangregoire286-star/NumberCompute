@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 <center>
-        <h1 style="text-align: center;">NumberComputer is a Library for Number Code</h1>          
+<h2 style="text-align: center;">NumberComputer is a Library for Number Code</h2>          
 </center>
 </div>
 ### This Project Makes Anything with Numbers Much easier to UseM
