@@ -17,6 +17,7 @@
                 rand::random_range(1.0..n2)
         }
 
+------------------------------------------
         #[allow(unused)]
         pub struct Object {
             name: String,
