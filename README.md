@@ -4,8 +4,9 @@
 ### This Project Makes Anything with Numbers Much easier to Use
 
 ### I also Added Random Operators for Math As Function so Call Function 
-        fn get_op();
 
+        fn get_op();
+-----------------------------
         
     mod objects;
     mod operators;
