@@ -45,3 +45,7 @@
                 self._number_2;
             }
         }
+----------------------------------------------------
+
+## I also Added Random Operators for Math As Function so Call Function 
+        fn get_op();
