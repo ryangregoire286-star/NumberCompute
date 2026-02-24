@@ -1,8 +1,7 @@
 # NumberComputer is a Library for Number Code
-### This Project Makes Anything with Numbers Much easier to Use
-
 ------------------------------------------
 
+### This Project Makes Anything with Numbers Much easier to Use
         
     mod objects;
     mod operators;
