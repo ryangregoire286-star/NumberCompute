@@ -1,7 +1,10 @@
 [package]
 name = "number_compute"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
+license = "MIT"
+homepage = "https://github.com/ryangregoire286-star/NumberCompute"
+description = "Number Library with anything Number Related | Math Functions"
 
 [dependencies]
 rand = "0.10.0"
