@@ -1,6 +1,7 @@
 # NumberComputer is a Library for Number Code
 ------------------------------------------
 
+<center>
 ### This Project Makes Anything with Numbers Much easier to Use
 
 ### I also Added Random Operators for Math As Function so Call Function 
@@ -50,4 +51,6 @@
                 self._number_2;
             }
         }
-----------------------------------------------------
+--------------------------------
+
+</center>--------------------
