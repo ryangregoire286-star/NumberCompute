@@ -1,10 +1,10 @@
 #[allow(unused)]
 
 struct MathFunc {
-    add: i32,
-    sub: i32,
-    mul: i32,
-    div: i32,
+    _add: i32,
+    _sub: i32,
+    _mul: i32,
+    _div: i32,
 }
 
 impl MathFunc {
@@ -22,5 +22,9 @@ impl MathFunc {
 
     pub fn _div(a: i32, b: i32) -> i32 {
         a / b
+    }
+
+    pub fn _get_pow(a: i32) -> i32 {
+        i32::pow(a, 2)
     }
 }

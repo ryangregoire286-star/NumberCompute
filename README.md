@@ -69,6 +69,8 @@ impl MathFunc {
         a + b
     }
 
+    
+
     pub fn _sub(a: i32, b: i32) -> i32 {
         a - b
     }
